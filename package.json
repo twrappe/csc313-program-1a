@@ -12,9 +12,6 @@
     "build": "parcel build --public-url . index.html"
   },
   "version": "1.0.0",
-  "engines": {
-    "node": "14.x.x"
-  },
   "main": "index.js",
   "author": "",
   "license": "ISC",
