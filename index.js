@@ -5,7 +5,7 @@ import Point from 'ol/geom/Point';
 import TileJSON from 'ol/source/TileJSON';
 import VectorSource from 'ol/source/Vector';
 import View from 'ol/View';
-import {Icon, Style} from 'ol/style';
+import {Style} from 'ol/style';
 import {Tile as TileLayer, Vector as VectorLayer} from 'ol/layer';
 import {fromLonLat} from 'ol/proj';
 
